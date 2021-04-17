@@ -1,4 +1,4 @@
-## Google Codelabs (邦訳)
+## Google Codelabs 邦訳
 
 1. [Codelabs for Android Developer Fundamentals](https://gdg-nara.github.io/codelabs-ja/android/fundamentals2/)
 
